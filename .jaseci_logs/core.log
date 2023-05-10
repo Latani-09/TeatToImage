@@ -1,0 +1,3 @@
+2023-05-10 13:24:05,567 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 13:24:41,191 - ERROR - load_local_actions: Cannot hot load local actions from /workspaces/TeatToImage/text_to_image.py: invalid syntax (text_to_image.py, line 19)
